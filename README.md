@@ -15,7 +15,7 @@
 - `SKILL.md`：七步拆解工作流与交付要求。
 - `references/evidence.md`：取证、来源核查与二次验证。
 - `references/analysis.md`：评测、人机分工、技术机制与成本。
-- `references/report.md`：报告结构、图表与交付检查。
+- `references/report.md`：标准报告格式（AI 速览 + 六章结构）、各章写法、图表与交付检查。
 - `agents/openai.yaml`：支持该格式的 Agent 的界面元数据。
 
 浏览、实测及飞书交付需要运行环境具备相应工具与权限；没有能力时应说明限制，不编造测试结果。方法来源见 SKILL.md；原始案例、账号、截图和非公开材料不随仓库提供。
